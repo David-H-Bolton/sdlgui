@@ -1,0 +1,1 @@
+After compiling the code for debug or release unzip the releasebinaries.zip into that folder. It contains versions of SDL, SDL_TTF, SDL_Image current as of June 14th, 2017 plus the free GUNPLAY_.ttf and dice.png (logo image used in the demo program).
